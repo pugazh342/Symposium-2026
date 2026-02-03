@@ -38,7 +38,7 @@ A full-stack event registration and management platform built for the National L
 
 1.  **Clone the repository**
     ```bash
-    git clone [https://github.com/pugazh342/symposium-2026.git](https://github.com/pugazh342/symposium-2026.git)
+    git clone https://github.com/pugazh342/symposium-2026.git
     cd symposium-2026
     ```
 
@@ -65,3 +65,4 @@ A full-stack event registration and management platform built for the National L
 ## 📄 License
 
 This project is licensed under the MIT License.
+
