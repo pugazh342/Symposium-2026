@@ -59,10 +59,8 @@ A full-stack event registration and management platform built for the National L
     npm run dev
     ```
 
-## 📸 Screenshots
-*(Add your screenshots here later)*
-
 ## 📄 License
 
 This project is licensed under the MIT License.
+
 
